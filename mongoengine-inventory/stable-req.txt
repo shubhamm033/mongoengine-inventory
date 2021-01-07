@@ -57,7 +57,7 @@ jupyter-client==5.2.0
 jupyter-console==5.2.0
 jupyter-core==4.4.0
 letsencrypt==0.4.1
-lxml==4.1.1
+lxml==4.6.2
 MarkupSafe==1.0
 marshmallow==2.15.0
 matplotlib==2.1.1
