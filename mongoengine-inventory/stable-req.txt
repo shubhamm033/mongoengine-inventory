@@ -100,7 +100,7 @@ python-apt==1.1.0b1
 python-dateutil==2.6.1
 python2-pythondialog==3.3.0
 pytz==2014.10
-PyYAML==3.12
+PyYAML==5.4
 pyzmq==16.0.3
 qtconsole==4.3.1
 requests==2.18.4
